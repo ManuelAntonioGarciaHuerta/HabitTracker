@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.HabitTracker" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/ic_launcher_background</item>
+        <item name="android:windowBackground">#FFF5F7F6</item>
+    </style>
+</resources>
